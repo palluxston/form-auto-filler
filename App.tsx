@@ -134,7 +134,7 @@ const App: React.FC = () => {
                         <h1 className="text-2xl font-bold tracking-tight text-white">Form AI Assistant</h1>
                     </div>
                     <a
-                        href="https://github.com/your-repo"
+                        href="https://github.com/palluxston/form-auto-filler"
                         target="_blank"
                         rel="noopener noreferrer"
                         className="text-gray-400 hover:text-white transition-colors"
