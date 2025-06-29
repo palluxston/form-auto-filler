@@ -1,0 +1,5 @@
+{
+  "name": "Form Auto-Filler AI",
+  "description": "An AI-powered application to generate bulk responses for a Google Form based on user-defined instructions. The user provides the form's HTML source, specifies the desired tone or direction for the answers, and chooses an AI provider (Google Gemini or OpenAI). The app then generates answer sets which can be reviewed, downloaded, or submitted.",
+  "requestFramePermissions": []
+}
